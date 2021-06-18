@@ -14,9 +14,9 @@ toc: false
 - Time: 12:30-16:30 on Wednesdays, Spring 2021;
 - Place: Room H2.2 - VNUHCM-University of Science.
 
-Our aim is to cover foundational material on the theory of characters of finite groups following by the classical textbook "Character Theory of Finite Groups"[^1] by Isaacs. We only covered roughly the first 6 chapters and a part of chapter 7. Some material is referred to G. James and M. Liebeck[^2] as well.
+Our aim is to cover foundational material on the theory of characters of finite groups following by the classical textbook "Character Theory of Finite Groups"[^1] by Isaacs. Some material is referred to G. James and M. Liebeck[^2] as well.
 
-We are grateful to Professor Pham Huu Tiep for giving us the problem set about the topic which helps us understand the material more clearly. We have aggregated the solutions of the pset along the seminar <a href="/./docs/Pset_Spring2021.pdf" target="_blank">here</a>.
+Throughout the seminar, we roughly covered the first six chapters and some of chapter 7 of the Isaacs's book. We are grateful to Professor Pham Huu Tiep for giving us the problem set about the topic which helps us understand the material more clearly. We have aggregated the solutions of the pset along the seminar <a href="/./docs/Pset_Spring2021.pdf" target="_blank">here</a>. 
 
 # Schedule
 - *(March 17)* **Tran Minh Nguyen**, **Do Hoang Viet**, and **Nguyen Trung Nghia**
