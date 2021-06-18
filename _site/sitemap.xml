@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/posts/2021/05/21/Example/</loc>
-<lastmod>2021-05-21T00:00:00+07:00</lastmod>
-</url>
-<url>
-<loc>/posts/2021/05/28/The-first/</loc>
-<lastmod>2021-05-28T00:00:00+07:00</lastmod>
+<loc>/posts/2021/02/20/Character-theory-learning-seminar/</loc>
+<lastmod>2021-02-20T00:00:00+07:00</lastmod>
 </url>
 <url>
 <loc>/blog/</loc>
 </url>
 <url>
+<loc>/tags/character-theory/</loc>
+</url>
+<url>
 <loc>/tags/example/</loc>
+</url>
+<url>
+<loc>/tags/group-theory/</loc>
 </url>
 <url>
 <loc>/</loc>
@@ -25,11 +27,15 @@
 <lastmod>2021-05-31T22:33:26+07:00</lastmod>
 </url>
 <url>
+<loc>/docs/Pset_Spring2021.pdf</loc>
+<lastmod>2021-06-18T11:36:55+07:00</lastmod>
+</url>
+<url>
 <loc>/docs/graph.pdf</loc>
 <lastmod>2021-06-08T00:42:58+07:00</lastmod>
 </url>
 <url>
 <loc>/docs/involution.pdf</loc>
-<lastmod>2021-06-08T00:37:07+07:00</lastmod>
+<lastmod>2021-06-18T14:18:44+07:00</lastmod>
 </url>
 </urlset>
