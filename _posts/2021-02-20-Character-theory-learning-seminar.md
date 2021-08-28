@@ -59,7 +59,7 @@ Throughout the seminar, we roughly covered the first six chapters and some of ch
 - *(May 5)* **Tran Minh Nguyen** and **Do Hoang Viet**
     - Induced class functions and Frobenius Reciprocity
     - Imprimitimitivity decomposition of $$FG$$-modules
-    - Monomial characters and M-groups
+    - Monomial characters and $$M$$-groups
     - Taketa’s Theorem on the solvability of $$M$$-groups
 
 - *(May 12)* **Tran Minh Nguyen** and **Do Hoang Viet**
