@@ -10,7 +10,7 @@ toc: false
 
 # Details
 
-- Organizers: Do Hoang Viet;
+- Organizers: Nguyen Trung Nghia and Do Hoang Viet;
 - Time: 12:30-16:30 on Wednesdays, Spring 2021;
 - Place: Room H2.2 - VNUHCM-University of Science.
 
